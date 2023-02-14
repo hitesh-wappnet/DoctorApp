@@ -9,7 +9,7 @@ import 'package:flutter_application_1/widget/custom_dailog/custom_dailog_result.
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:get/get.dart';
 
-class NavigationDrawer extends StatelessWidget {
+class NavigationDrawer1 extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Drawer(

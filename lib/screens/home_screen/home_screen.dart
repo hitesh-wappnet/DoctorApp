@@ -149,7 +149,7 @@ class _HomeScreenState extends State<HomeScreen> {
             ])
           ],
         ),
-        drawer: NavigationDrawer(),
+        drawer: NavigationDrawer1(),
         body: SingleChildScrollView(
           child: Padding(
             padding: EdgeInsets.symmetric(horizontal: 16.w),
