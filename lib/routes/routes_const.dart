@@ -1,0 +1,12 @@
+const String REGISTERATION_SCREEN_ROUTE = "/resigteraion_screen";
+const String LOGIN_SCREEN_ROUTE = "/login_screen";
+const String HOME_SCREEN_ROUTE = "/home_screen";
+const String VACCINE_RECORD_SCREEN_ROUTE = "/vaccine_record_screen";
+const String NOTIFICATION_SCREEN_ROUTE = "/notification_record_screen";
+const String SEARCH_SCREEN_ROUTE = "/child_search_screen";
+const String DOCTOR_SUGGESTION_SCREEN_ROUTE = "/doctor_suggestion_screen";
+const String VERIFY_OTP_SCREEN_ROUTE = "/verify_otp_screen";
+const String FORGET_PASSWORD_SCREEN_ROUTE = "/forget_password_screen";
+const String RESET_PASSWORD_SCREEN_ROUTE = "/reset_password_screen";
+const String MAIN_SCREEN_ROUTE = "/main_screen";
+const String PROFILE_SCREEN_ROUTE = "/profile_screen";

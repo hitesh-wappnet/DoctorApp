@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "877088921620",
+    "project_id": "doctorvaccinetrackerapp",
+    "storage_bucket": "doctorvaccinetrackerapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877088921620:android:019a263f08c11e74c52f01",
+        "android_client_info": {
+          "package_name": "com.example.doctor_vaccine_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877088921620-3iko6apspo1jjn99jonbc00rm9ar7i4l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.doctor_vaccine_tracker",
+            "certificate_hash": "4e9bf0fb6b9879fe1b75945854ec972e14727a38"
+          }
+        },
+        {
+          "client_id": "877088921620-n4825f223g8flk3ffa2gon4439l6gkkt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOpS8_E4MeGgM1QDMXYeTGjjCP66J-LOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877088921620-n4825f223g8flk3ffa2gon4439l6gkkt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

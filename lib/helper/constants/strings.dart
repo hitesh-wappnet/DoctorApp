@@ -1,0 +1,22 @@
+const String SIGNIN = "Sign in";
+const String SIGN_UP = "Sign Up";
+const String WHO_ARE_YOU = "Who Are You";
+const String ENTER_EMAIL = "Enter Email";
+const String EMAIL = "Email";
+
+const String ENTER_PASSWORD = "Enter Password";
+const String ENTER_NAME = "Enter Name";
+const String FIRST_NAME = "First Name";
+const String VACCINE_RECORD = "Vaccine Record";
+const String MIDDLE_NAME = "Middle Name";
+const String DATE_OF_BIRTH = "Date of Birth";
+const String LAST_NAME = "Last Name";
+const String CONFIRM_PASSWORD = "Confirm Password";
+const String FORGOT_PASSWORD = "Forgot Password ? ";
+const String REGISTER = " Resigter";
+const String CONTINUE = "Continue";
+const String VERIFY_OTP = "Verify OTP";
+const String ALL = "All";
+const String CONNECTED = "Connected";
+const String SEARCH_RESULT = "Search Result";
+const String NO_RECENT_REQUEST = "no recent request";
